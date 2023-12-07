@@ -1,0 +1,33 @@
+.idea/
+*.class
+*.iml
+#/.project
+target/
+*.iws
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# ignore eclipse files
+.project
+.classpath
+.settings
+.idea
+atlassian-ide-plugin.xml
+
+.idea_modules/
+
+/out/
+
+# Default ignored files
+/workspace.xml
+
